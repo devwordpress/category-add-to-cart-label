@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 /*
 Plugin Name: Add to cart label based on product category
@@ -160,4 +159,3 @@ Domain Path: /languages
  add_filter('woocommerce_product_add_to_cart_text', 'eric_add_to_cart_text');
  add_filter('woocommerce_product_single_add_to_cart_text', 'eric_add_to_cart_text');
 ?>
->>>>>>> 612af00b87f525b8a20900901c9ba1dd37a6337d
